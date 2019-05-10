@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bedatadriven:jackson-datatype-jts:2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bedatadriven/jackson-datatype-jts/2.4/92181af937441b3d9858bb98a6bbcbc1bae419fc/jackson-datatype-jts-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bedatadriven/jackson-datatype-jts/2.4/1743a0e1fcd75aec54dba0bc58831382f33982f/jackson-datatype-jts-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

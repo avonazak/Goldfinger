@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.example.authapi.main" target="1.8" />
+      <module name="com.example.authapi.test" target="1.8" />
+      <module name="com.example.earthquakes-shocks.main" target="1.8" />
+      <module name="com.example.earthquakes-shocks.test" target="1.8" />
+      <module name="com.example.followapi.main" target="1.8" />
+      <module name="com.example.followapi.test" target="1.8" />
+      <module name="com.example.gateway.main" target="1.8" />
+      <module name="com.example.gateway.test" target="1.8" />
+      <module name="com.example.mapapi.main" target="1.8" />
+      <module name="com.example.mapapi.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

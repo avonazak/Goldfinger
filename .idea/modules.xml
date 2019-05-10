@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authapi/com.example.authapi.iml" filepath="$PROJECT_DIR$/.idea/modules/authapi/com.example.authapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authapi/com.example.authapi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/authapi/com.example.authapi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/authapi/com.example.authapi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/authapi/com.example.authapi.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.earthquakes-shocks.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.earthquakes-shocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.earthquakes-shocks.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.earthquakes-shocks.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.earthquakes-shocks.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.earthquakes-shocks.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/followapi/com.example.followapi.iml" filepath="$PROJECT_DIR$/.idea/modules/followapi/com.example.followapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/followapi/com.example.followapi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/followapi/com.example.followapi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/followapi/com.example.followapi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/followapi/com.example.followapi.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/com.example.gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/com.example.gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/com.example.gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/com.example.gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gateway/com.example.gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gateway/com.example.gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapapi/com.example.mapapi.iml" filepath="$PROJECT_DIR$/.idea/modules/mapapi/com.example.mapapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapapi/com.example.mapapi.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mapapi/com.example.mapapi.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mapapi/com.example.mapapi.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mapapi/com.example.mapapi.test.iml" />
+    </modules>
+  </component>
+</project>
